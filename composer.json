@@ -1,0 +1,20 @@
+{
+    "name": "zhangyi/distributed-transaction-db",
+    "type": "library",
+    "require": {
+        //"greenlion/php-sql-parser": "^4.3",
+        "mikemadisonweb/yii2-rabbitmq": "^1.7.0",
+        "yiisoft/yii2": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "yeah",
+            "email": "306561345@qq.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "DS_DB\\" : "src"
+        }
+    }
+}
