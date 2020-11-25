@@ -2,7 +2,6 @@
     "name": "zhangyi/distributed-transaction-db",
     "type": "library",
     "require": {
-        /* "greenlion/php-sql-parser": "^4.3", */
         "mikemadisonweb/yii2-rabbitmq": "^1.7.0",
         "yiisoft/yii2": "^2.0"
     },
