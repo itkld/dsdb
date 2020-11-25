@@ -1,5 +1,5 @@
 {
-    "name": "zhangyi/distributed-transaction-db",
+    "name": "itkld/distributed-transaction-db",
     "type": "library",
     "require": {
         "mikemadisonweb/yii2-rabbitmq": "^1.7.0",
@@ -7,8 +7,8 @@
     },
     "authors": [
         {
-            "name": "yeah",
-            "email": "306561345@qq.com"
+            "name": "itkld",
+            "email": "itkld@kalading.com"
         }
     ],
     "autoload" : {
